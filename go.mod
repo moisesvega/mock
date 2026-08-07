@@ -1,6 +1,6 @@
 module go.uber.org/mock
 
-go 1.27
+go 1.27rc2
 
 require (
 	golang.org/x/mod v0.11.0

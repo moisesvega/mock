@@ -3,7 +3,7 @@
 
 set -euo pipefail
 
-if [[ $(go version) != *"go1.27"* ]]; then
+if [[ $(go version) != *"go1.27rc2"* ]]; then
   exit 0
 fi
 
